@@ -1,4 +1,4 @@
-const CACHE_NAME = 'photographers-v0.2'; // رفع رقم الإصدار لإجبار المتصفح على التحديث
+const CACHE_NAME = 'photographers-v0.5'; // رفع رقم الإصدار لإجبار المتصفح على التحديث
 const ASSETS = [
   './',
   './index.html',
